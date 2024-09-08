@@ -1,4 +1,4 @@
-class Termo extends Game {
+class ParOuImpar extends Game {
     __New() {
         super.__New()
     }
